@@ -26,12 +26,12 @@
       "type": "image/png"
     }
   ],
-  "name": "My Shop",
-  "short_name": "My Shop",
+  "name": "Clean_Theme",
+  "short_name": "Clean_Theme",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "My PWA Shop",
+  "description": "Clean",
   "background_color": "#ffffff",
-  "theme_color": "#222831"
+  "theme_color": "#e83e8c"
 }
