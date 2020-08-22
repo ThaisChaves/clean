@@ -40,6 +40,10 @@
           "img": "/img/uploads/copia-de-tudy-baby-tamanho-original-4-.png"
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/6.png"
     }
   ]
 }
