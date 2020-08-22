@@ -30,7 +30,12 @@
       "banners": [
         {
           "img": "/img/uploads/copia-de-tudy-baby-tamanho-original-4-.png"
-        },
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
         {
           "img": "/img/uploads/5.png"
         }
