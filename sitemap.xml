@@ -20,12 +20,6 @@
     </url>
   
     <url>
-      <loc>https://keen-pasteur-596ea6.netlify.app//mouse-gamer-msi-interceptor-ds200-rgb-preto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://keen-pasteur-596ea6.netlify.app//caixa-de-som-edifier-2.1-amplificada-15w-x100b-preto</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -98,12 +92,6 @@
     </url>
   
     <url>
-      <loc>https://keen-pasteur-596ea6.netlify.app//monitor-gamer-asus-rog-swift-led-24-widescreen-fhd-pg248q</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://keen-pasteur-596ea6.netlify.app//smartphone-xiaomi-mi-8-lite-64gb-versao-global-desbloqueado-azul</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -128,18 +116,6 @@
     </url>
   
     <url>
-      <loc>https://keen-pasteur-596ea6.netlify.app//smartphone-alcatel-3c-5026j-tv-16gb-desbloqueado-preto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://keen-pasteur-596ea6.netlify.app//smartphone-alcatel-pixi-4-4034e-lite-4-desbloqueado-preto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://keen-pasteur-596ea6.netlify.app//slug</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -159,6 +135,60 @@
   
     <url>
       <loc>https://keen-pasteur-596ea6.netlify.app//produto-teste-ml</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//p-blusa-charlotte-ml-cinza-mid</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//p-produto-blingue</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//lok-1-arm-band</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//mi-band-5</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//fone-xiaomi-redmi-airdots</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//kit-miband--airdots</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//kit-com-5-notebooks</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//ninjanew</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//nova-imagem-teste</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -345,6 +375,24 @@
   
     <url>
       <loc>https://keen-pasteur-596ea6.netlify.app//teste</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//informatica-a-venda</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//teste-novo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//teste-mgnr-novo</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
