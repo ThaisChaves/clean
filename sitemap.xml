@@ -464,12 +464,6 @@
     </url>
   
     <url>
-      <loc>https://keen-pasteur-596ea6.netlify.app//pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://keen-pasteur-596ea6.netlify.app//pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -495,6 +489,12 @@
   
     <url>
       <loc>https://keen-pasteur-596ea6.netlify.app//pages/trocas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
