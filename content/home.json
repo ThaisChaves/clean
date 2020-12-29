@@ -47,6 +47,17 @@
           "img": "/img/uploads/2.png"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/5.jpg"
+        },
+        {
+          "img": "/img/uploads/3.jpg"
+        }
+      ]
     }
   ]
 }
