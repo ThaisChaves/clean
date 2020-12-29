@@ -194,6 +194,18 @@
     </url>
   
     <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//camisa-masculina-marmorizada-azul</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//camisa-azul</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://keen-pasteur-596ea6.netlify.app//monitores</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -446,6 +458,12 @@
     </url>
   
     <url>
+      <loc>https://keen-pasteur-596ea6.netlify.app//pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://keen-pasteur-596ea6.netlify.app//pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -453,12 +471,6 @@
   
     <url>
       <loc>https://keen-pasteur-596ea6.netlify.app//pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://keen-pasteur-596ea6.netlify.app//pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
